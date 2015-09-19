@@ -9,6 +9,7 @@ gem "paperclip"
 gem "pg"
 gem "sass-rails"
 gem "uglifier"
+gem "cocaine"
 
 group :development, :test do
   gem "rspec-rails"
